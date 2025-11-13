@@ -1,6 +1,3 @@
-# Hospital-Management-System
-A robust Hospital Management System built with MySQL to streamline patient data, doctor schedules, and billing records. Features relational database design with normalization and efficient query handling.
-
 # 🏥 Hospital Management System (HMS) Database
 
 ## 📄 Overview
